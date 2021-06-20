@@ -68,8 +68,9 @@
             this.Controls.Add(this.lblInfo);
             this.Controls.Add(this.label1);
             this.Name = "Help";
+            this.Opacity = 0.5D;
             this.Text = "Help";
-            this.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.lblInfo_MouseDoubleClick);
+            this.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.form_MouseDoubleClick);
             this.ResumeLayout(false);
             this.PerformLayout();
 

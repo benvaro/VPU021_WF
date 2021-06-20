@@ -46,16 +46,16 @@ namespace _00_FormViaCode
             var button = new Button();
             button.Text = "Press me";
             button.Font = new Font(form.Font.FontFamily, 12, FontStyle.Italic);
-            button.ForeColor = Color.FromArgb(100, 34, 200);
-            button.BackColor = Color.FromName("Orange");
+            button.ForeColor = Color.FromArgb(100, 34, 200);  // колір тексту, Color.FromArgb - метод, дозволяє змішати колір по числових значеннях, від 0..255
+            button.BackColor = Color.FromName("Orange"); // колір фону
             button.Width = 100;
             button.Height = 40;
-            button.Click += Button_Click;
+            button.Click += Button_Click; // підписка на подію Click по кнопці
 
-            form.Controls.Add(label);
-            form.Controls.Add(button);
+            form.Controls.Add(label);  // додаю в колекцію контролів на формі
+            form.Controls.Add(button); // додаю в колекцію контролів на формі
 
-            form.ShowDialog();
+            form.ShowDialog(); // показати форму
         }
 
         static bool isClicked = false;
