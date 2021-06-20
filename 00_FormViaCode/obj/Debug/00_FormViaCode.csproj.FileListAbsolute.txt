@@ -1,0 +1,7 @@
+C:\Users\benva\source\repos\VPU021_WF\00_FormViaCode\bin\Debug\00_FormViaCode.exe.config
+C:\Users\benva\source\repos\VPU021_WF\00_FormViaCode\bin\Debug\00_FormViaCode.exe
+C:\Users\benva\source\repos\VPU021_WF\00_FormViaCode\bin\Debug\00_FormViaCode.pdb
+C:\Users\benva\source\repos\VPU021_WF\00_FormViaCode\obj\Debug\00_FormViaCode.csprojAssemblyReference.cache
+C:\Users\benva\source\repos\VPU021_WF\00_FormViaCode\obj\Debug\00_FormViaCode.csproj.CoreCompileInputs.cache
+C:\Users\benva\source\repos\VPU021_WF\00_FormViaCode\obj\Debug\00_FormViaCode.exe
+C:\Users\benva\source\repos\VPU021_WF\00_FormViaCode\obj\Debug\00_FormViaCode.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_FormViaCode", "00_FormViaCode\00_FormViaCode.csproj", "{B2281C19-9381-44AB-9BD3-DDAB08120AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_FormViaDesigner", "01_FormViaDesigner\01_FormViaDesigner.csproj", "{563116E6-BEFC-46B2-8735-AB18FAC4485E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2281C19-9381-44AB-9BD3-DDAB08120AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2281C19-9381-44AB-9BD3-DDAB08120AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2281C19-9381-44AB-9BD3-DDAB08120AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2281C19-9381-44AB-9BD3-DDAB08120AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563116E6-BEFC-46B2-8735-AB18FAC4485E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563116E6-BEFC-46B2-8735-AB18FAC4485E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563116E6-BEFC-46B2-8735-AB18FAC4485E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563116E6-BEFC-46B2-8735-AB18FAC4485E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD5B2C4-4C12-4B79-8864-FCE62574A53F}
+	EndGlobalSection
+EndGlobal
